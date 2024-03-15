@@ -2,10 +2,12 @@
 <br>
 This is Amazon Clone
 <br>
-# Features
+<h1>Features</h1>
+<br>
 ○ Login Page
 ○ Product Filter
 ○ Redirect to Amazon USA original Website
 <br>
-# Created with
+<h1>Created with</h1>
+<br>
 HTML and CSS 
