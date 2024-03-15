@@ -1,0 +1,111 @@
+*{
+    margin: 0px;
+}
+.signinlogo{
+    
+        background-image: url("black.png");
+        background-size: cover;
+        display:flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 690px;
+        
+        height:80px; 
+        width:125px;
+    
+    
+}
+
+.form{
+    padding: 20px 26px;
+    height:340px;
+    width:290px;
+    border:1px solid rgba(0,0,0,0.2);
+    border-radius: 7px;
+    
+    margin-left: 590px;
+}
+
+.form p{
+    font-size :30px;
+    font-weight:540;
+}
+
+.mail a{
+    display: flex;
+    justify-content: left;
+    margin-top: 4%;
+    font-size: 14px;
+    font-weight: 580;
+}
+
+.boy{
+    height:25px;
+    width:285px;
+    margin-top: 2%;
+    border-radius: 4px;
+    border:1px solid rgba(0,0,0,0.2);
+}
+
+.submit{
+    background-color: #ffd814;
+    display: flex;
+    justify-content: center;
+    height:31px;
+    width:285px;
+    margin-top:5%;
+    border-radius: 8px;
+    border:1px solid rgba(0,0,0,0);
+    font-weight: 500;
+}
+
+.terms p{
+    font-size: 13px;
+    font-weight: 500;
+    margin-top: 6%;
+}
+
+
+    
+.help{
+    color:#628ccb;
+}
+
+hr{
+    margin-top: 9%;
+    background-color: rgba(0,0,0,0.1);
+   
+}
+
+.buying p{
+    font-weight: 800;
+    font-size: 25px;
+}
+
+.shop{
+    color:#628ccb;
+    font-size: 3rem;
+    font-weight: 600;
+}
+
+.new{
+    display: flex;
+    justify-content: center;
+}
+
+
+.create{
+    background-color: white;
+    border:1px solid rgba(0,0,0,0.2);
+    display: flex;
+    justify-content: center;
+    height:31px;
+    width:350px;
+    margin-top:3%;
+    border-radius: 8px;
+    font-weight: 500;
+    margin-right: 80px;
+    font-weight: 400;
+}
+
+
